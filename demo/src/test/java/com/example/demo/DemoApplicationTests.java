@@ -15,6 +15,7 @@ class DemoApplicationTests {
 	{
 		logger.info("Test cases are executed");
 		assertEquals(true,true);
+		logger.info("Test cases are passed");
 	}
 
 }
